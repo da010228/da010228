@@ -33,7 +33,7 @@
   <br>
   <h3> 📫 How to reach me 📫</h3>
   <a href="https://www.instagram.com/all_mine_._._" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://blog.naver.com/da010228" target="_blank"><img src="https://img.shields.io/badge/duddms0190@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
+  <a href="https://blog.naver.com/da010228" target="_blank"><img src="https://img.shields.io/badge/da010228@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
   <br>
   <br>
   <br>
