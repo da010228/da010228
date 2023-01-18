@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white">
   
   <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoungEun-Choi930&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=da010228&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
   <br>
   <h3> Studying </h3>
