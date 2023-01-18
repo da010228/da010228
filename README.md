@@ -1,7 +1,8 @@
 ### Hi there 👋
 <div align="center">
   <h3>💡 Daeun Kang 💡</h3>
-  
+  <br>
+  <br>
   <h3>🚪 Currently learning 🚪</h3>
   <img src="https://img.shields.io/badge/SSAFY-007ACC?style=for-the-badge&logo=SSAFY&logoColor=white">
   <br>
