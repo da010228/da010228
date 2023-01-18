@@ -42,14 +42,13 @@
   <br>
   <br>
  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=da010228&theme=dark&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=da010228&show_icons=true&theme=transparent)
   
   
 </div>
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=da010228&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=da010228&show_icons=true&theme=transparent)
 
 
 
