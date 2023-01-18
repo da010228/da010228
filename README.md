@@ -1,7 +1,7 @@
 
 <div align="center">
   <h3>🎇 Daeun Kang 🎇</h3>
-  <a href="https://daon-programming.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://daon-programming.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
     <a href="https://www.instagram.com/all_mine_._._" target="_blank"><img src="https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="https://blog.naver.com/da010228" target="_blank"><img src="https://img.shields.io/badge/Naver-000000?style=for-the-badge&logo=Naver&logoColor=white"/></a>
   <br>
