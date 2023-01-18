@@ -10,9 +10,10 @@
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white">
-  
   <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=da010228&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <br>
+  <br>
+  
   
   <br>
   <h3> Studying </h3>
@@ -24,6 +25,8 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
+  <br>
+  <br>
   <br>
   
   <br>
@@ -38,12 +41,19 @@
   
   <br>
   <br>
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=da010228&show_icons=true&theme=transparent)
+ 
   
   
   
 </div>
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=da010228&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=da010228&show_icons=true&theme=transparent)
+
+
+
+
 **da010228/da010228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
