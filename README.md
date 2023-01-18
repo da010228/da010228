@@ -42,7 +42,7 @@
   <br>
   <br>
  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=da010228&show_icons=true&theme=radical)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=da010228&theme=dark&show_icons=true)
   
   
 </div>
