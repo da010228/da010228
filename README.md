@@ -2,12 +2,6 @@
 <div align="center">
   <h3>💡 Daeun Kang 💡</h3>
   
-  <a href="https://www.instagram.com/all_mine_._._" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://blog.naver.com/da010228" target="_blank"><img src="https://img.shields.io/badge/duddms0190@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
-  <br>
-  <br>  
-  <br>
-  <br>
   <h3>🚪 Currently learning 🚪</h3>
   <img src="https://img.shields.io/badge/SSAFY-007ACC?style=for-the-badge&logo=SSAFY&logoColor=white">
   <br>
@@ -42,12 +36,8 @@
   <br>
   <br>
   <br>
-  <br>  
-  
-  
- 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=da010228&show_icons=true&theme=transparent)
   <br>
+
   <br>
   
 </div>
