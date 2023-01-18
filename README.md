@@ -1,12 +1,12 @@
 
 <div align="center">
   <h3>🎇 Daeun Kang 🎇</h3>
-    <span href="https://www.instagram.com/all_mine_._._" target="_blank"><img src="https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white"/></span>
-  <span href="https://blog.naver.com/da010228" target="_blank"><img src="https://img.shields.io/badge/da010228@naver.com-000000?style=for-the-badge&logo=Naver&logoColor=white"/></span>
+    <a href="https://www.instagram.com/all_mine_._._" target="_blank"><img src="https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://blog.naver.com/da010228" target="_blank"><img src="https://img.shields.io/badge/da010228@naver.com-000000?style=for-the-badge&logo=Naver&logoColor=white"/></a>
   <br>
   <br>
   <h3> Now </h3>
-  <span href="https://www.ssafy.com" target="_blank"><img src="https://img.shields.io/badge/SSAFY-000000?style=for-the-badge&logo=SSAFY&logoColor=white">
+  <a href="https://www.ssafy.com" target="_blank"><img src="https://img.shields.io/badge/SSAFY-000000?style=for-the-badge&logo=SSAFY&logoColor=white">
   <br>
   <br>
   <h3> Major </h3>
