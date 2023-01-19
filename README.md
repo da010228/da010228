@@ -30,7 +30,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=da010228&exclude_repo=da010228.github.io&theme=graywhite" />
 </a> -->
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=da010228&theme=graywhite" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=da010228&theme=graywhite" />
 </a>
   <br>
   
