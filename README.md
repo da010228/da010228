@@ -26,10 +26,13 @@
   <br>
   <br>
     <h3> 🛫 Github Stats 🛬</h3>
-<a>
+<!-- <a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=da010228&exclude_repo=da010228.github.io&theme=graywhite" />
-  <img src="https://github-readme-stats.vercel.app/api?username=da010228&theme=graywhite" />
- </a>
+  </a> -->
+    <a>
+  <img src="https://github-readme-stats.vercel.app/api?username=da010228&exclude_repo=da010228.github.io&theme=graywhite" />
+  </a>
+    
  <br>
   
 </div>
