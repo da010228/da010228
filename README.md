@@ -26,12 +26,10 @@
   <br>
   <br>
     <h3> 🛫 Github Stats 🛬</h3>
-<!-- <a href="s">
+<a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=da010228&exclude_repo=da010228.github.io&theme=graywhite" />
-</a> -->
-<a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=da010228&theme=graywhite" />
-</a>
-  <br>
+ </a>
+ <br>
   
 </div>
