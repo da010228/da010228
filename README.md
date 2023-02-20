@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/Eclipse-000000?style=for-the-badge&logo=Eclipse&logoColor=white">
   <br>
   <h3> Minor </h3>
-  <img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=white">
