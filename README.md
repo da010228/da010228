@@ -15,7 +15,7 @@
   <br>
   <h3> Minor </h3>
   <img src="https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=white">
   <!-- <br>
   <img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=Spring&logoColor=white">
