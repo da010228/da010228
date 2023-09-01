@@ -1,8 +1,6 @@
 
 <div align="center">
-  <h3>🎇 Daeun Kang 🎇</h3>
-  <a href="https://daon-programming.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
-  <a href="https://blog.naver.com/da010228" target="_blank"><img src="https://img.shields.io/badge/Naver-000000?style=for-the-badge&logo=Naver&logoColor=white"/></a>
+  <h2>🎇 Daeun Kang 🎇</h2>
   <br>
   <h3> Now </h3>
   <a href="https://www.notion.so/4cadad1db8e54182b4ecf62d5a20edd2?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a> 
