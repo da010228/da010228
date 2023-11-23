@@ -8,24 +8,20 @@
   <br>
   <h3> Major </h3>
   <img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=Java&logoColor=white">
-  <img src="https://img.shields.io/badge/AndroidStudio-000000?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/Eclipse-000000?style=for-the-badge&logo=Eclipse&logoColor=white">
   <br>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring Boot-000000?style=for-the-badge&logo=spring&logoColor=white">
   <br>
   <h3> Minor </h3>
   <img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=Vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=white">
-  <!-- <br>
-  <img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=Vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/VSCODE-000000?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white">  -->
+  <img src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white">
   <br>
   <br>
     <h3> 🛫 Github Stats 🛬</h3>
