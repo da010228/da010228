@@ -24,13 +24,10 @@
   <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white">
   <br>
   <br>
-    <h3> 🛫 Github Stats 🛬</h3>
-<!-- <a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=da010228&exclude_repo=da010228.github.io&theme=graywhite" />
-  </a> -->
-    <a>
-  <img src="https://github-readme-stats.vercel.app/api?username=da010228&exclude_repo=da010228.github.io&theme=graywhite" />
-  </a>
+    <!-- <h3> 🛫 Github Stats 🛬</h3>
+      <a>
+        <img src="https://github-readme-stats.vercel.app/api?username=da010228&exclude_repo=da010228.github.io&theme=graywhite" />
+      </a>-->
     
  <br>
   
