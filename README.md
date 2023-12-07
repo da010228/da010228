@@ -23,6 +23,14 @@
   <img src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white">
   <br>
+
+ <h3> Collaboration </h3>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=Jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Gerrit-000000?style=for-the-badge&logo=Gerrit&logoColor=white">
+  <br>
+
+    
   <br>
     <!-- <h3> 🛫 Github Stats 🛬</h3>
       <a>
