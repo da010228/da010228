@@ -4,6 +4,8 @@
   <br>
   <h3> Now </h3>
   <a href="https://www.notion.so/4cadad1db8e54182b4ecf62d5a20edd2?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a> 
+  <br>
+  <h3> Experience </h3>
   <a href="https://www.ssafy.com" target="_blank"><img src="https://img.shields.io/badge/SSAFY-000000?style=for-the-badge&logo=SSAFY&logoColor=white">
   <br>
   <h3> Major </h3>
