@@ -7,7 +7,8 @@
   <br>
   <h3> Experience </h3>
   <a href="https://www.ssafy.com" target="_blank"><img src="https://img.shields.io/badge/SSAFY-fffbb2?style=for-the-badge&logo=SSAFY&logoColor=black">
-  <br>
+    
+  <h3>  </h3>
   <h3> Major </h3>
   <img src="https://img.shields.io/badge/java-fffbb2?style=for-the-badge&logo=Java&logoColor=black">
   <img src="https://img.shields.io/badge/Eclipse-fffbb2?style=for-the-badge&logo=Eclipse&logoColor=black">
@@ -20,6 +21,7 @@
   <img src="https://img.shields.io/badge/MySQL-fffbb2?style=for-the-badge&logo=mysql&logoColor=black">
     <img src="https://img.shields.io/badge/Spring Boot-fffbb2?style=for-the-badge&logo=spring&logoColor=black">
   <br>
+  
   <h3> Minor </h3>
   <img src="https://img.shields.io/badge/Vue.js-fffbb2?style=for-the-badge&logo=Vue.js&logoColor=black">
   <img src="https://img.shields.io/badge/Android-fffbb2?style=for-the-badge&logo=android&logoColor=black">
